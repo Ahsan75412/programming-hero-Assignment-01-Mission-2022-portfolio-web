@@ -16,7 +16,7 @@ h1{
  p{
     font-size: 15px;
     color: rgb(100, 97, 97);
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 span{
@@ -75,6 +75,7 @@ span{
 }
 .column{
     float: left;
+    height: 300px;
     width: 25%;
     padding: 20px;
     text-align: start;
@@ -97,3 +98,21 @@ span{
 
 
 /*............................ My mission section ends here .........................*/
+
+
+/*............................ develop Limits style start here .........................*/
+
+.round{
+    border-radius: 20px;
+    height: 380px;
+    
+}
+
+.side-round{
+    background-image: url(./image);
+    background-repeat: no-repeat;
+    background-position: left;
+   
+}
+
+/*............................ develop Limits style ends here .........................*/
