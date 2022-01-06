@@ -7,7 +7,7 @@ body{
 }
 
 
-    /* ................reuseble code here............ */
+    /* ................re-useble code here............ */
 h1{
   font-size: 50px;
     
@@ -26,6 +26,7 @@ span{
 .container{
     display: flex;
     padding: 20px 40px;
+    margin-bottom: 100px;
 }
 
 .sub-container{
@@ -50,7 +51,7 @@ span{
 
 /*............................ header section style start here .........................*/
 
-.row{
+.color{ 
     border-left: 5px solid ;
     border-image: linear-gradient(tomato , orange);
     border-image-slice: 1;  
@@ -65,9 +66,32 @@ span{
 
 
 
+
+
 /*............................ My mission section start here .........................*/
 
+.row{
+    text-align: center;
+}
+.column{
+    float: left;
+    width: 25%;
+    padding: 20px;
+    text-align: start;
+    margin-left: 40px;
+    border-radius: 10px;
 
+}
+
+.col_dis{
+    background: rgb(217, 224, 235);
+}
+.col_col{
+    background: #ecdebe;
+}
+.col_gro{
+    background: #f3d79a;
+}
 
 
 
