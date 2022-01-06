@@ -126,3 +126,26 @@ span{
 .high{
     margin-top: 50px;
 }
+
+/*.................................. footer section style start here................... */
+
+footer{
+    height: 140px;
+    background-color: rgb(34, 33, 33);
+    text-align: center;
+}
+
+footer h2{
+    padding-top: 20px;
+    color: #fff;
+    font-size: 35px;
+    font-family: 'Italianno', cursive;
+}
+footer span{
+    color: tomato;
+}
+
+
+
+
+/*.................................. footer section style ends here................... */
