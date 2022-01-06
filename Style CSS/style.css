@@ -34,7 +34,7 @@ span{
 }
 
 .sub-container img{
-    width: 60%;
+    width: 80%;
 }
 
 .btn{
@@ -60,6 +60,7 @@ span{
 
 .right{
     float: right;
+    padding-right: 60px;
 }
 
 /*............................ header section style ends here .........................*/
@@ -108,7 +109,7 @@ span{
 
 .round{
     border-radius: 20px;
-    height: 380px;
+    height: 400px;
     
 }
 
@@ -120,3 +121,8 @@ span{
 }
 
 /*............................ develop Limits style ends here .........................*/
+
+
+.high{
+    margin-top: 50px;
+}
