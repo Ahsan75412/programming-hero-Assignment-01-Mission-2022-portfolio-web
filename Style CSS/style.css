@@ -73,9 +73,13 @@ span{
 .row{
     text-align: center;
 }
+
+.size{
+    height: 25%;
+}
 .column{
     float: left;
-    height: 300px;
+    height: 350px;
     width: 25%;
     padding: 20px;
     text-align: start;
